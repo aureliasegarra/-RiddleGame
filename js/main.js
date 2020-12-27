@@ -52,5 +52,5 @@ const app = {
     }
 
 }
-
+//App launch
 document.addEventListener('DOMContentLoaded', app.init);
