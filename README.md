@@ -1,2 +1,3 @@
-# 🤔 RiddleGame
-Game application to search the right number
+# Riddle Game 
+
+## A game to search the right number ...
