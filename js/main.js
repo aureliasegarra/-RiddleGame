@@ -1,7 +1,7 @@
 const app = {
     defaultRanges: {
         min: 0,
-        max: 100
+        max: 10
     },
     currentRanges:{},
     searchNumber: null,
@@ -42,7 +42,7 @@ const app = {
             min: app.defaultRanges.min,
             max: app.defaultRanges.max,
         }
-        app.searchNumber = app.getRandomNumber( app.defaultRanges.min, app.defaultRanges.max)
+        app.searchNumber = app.getRandomNumber(app.defaultRanges.min, app.defaultRanges.max)
         
         // I target the form
         const form = document.querySelector('.rangeGame form');

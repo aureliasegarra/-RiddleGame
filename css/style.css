@@ -1,5 +1,5 @@
 body {
-    background-color: #3d3dc0;
+    background-color: #1ab1a2;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -75,6 +75,6 @@ form button {
     border: 0;
     padding: 10px;
     border-radius: 30px;;
-    background-color: #3535c0;
+    background-color: #efbc3b;
     color: white;
 }
