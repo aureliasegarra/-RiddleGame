@@ -1,3 +1,3 @@
-# Riddle Game 
+# 🤔 Riddle Game 
 
 ## A game to search the right number ...
